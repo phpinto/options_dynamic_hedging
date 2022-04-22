@@ -36,13 +36,13 @@ For this project, I implemented 3 main classes:
   <img src="https://latex.codecogs.com/svg.image?\LARGE&space;S_{t&plus;\Delta_t}=S_t&plus;\mu{}S_t\Delta_t&plus;\sigma{}S_t\sqrt{\Delta_t}Z_t" />
 </p>
 
-## 4. Output Analysis:
+## 4. Output Example:
 
 - For Part I of the project, I implemented the hedging strategy 1000 different times.
 The outputs can be found in the results folder. Here are the plots for one of those strategies:
 
 <p align="center">
-  <img src="" />
+  <img src="doc/img/output_graphs.png" alt="output_graphs" style="width: 750px;"/>
 </p>
 
 - The output for Part II is also in the results folder.
