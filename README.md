@@ -42,7 +42,7 @@ For this project, I implemented 3 main classes:
 The outputs can be found in the results folder. Here are the plots for one of those strategies:
 
 <p align="center">
-  <img src="doc/img/output_graphs.png" alt="output_graphs" style="width: 750px;"/>
+  <img src="doc/img/output_graphs.png" alt="output_graphs" style="width: 650px;"/>
 </p>
 
 - The output for Part II is also in the results folder.
