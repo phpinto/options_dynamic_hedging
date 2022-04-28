@@ -15,7 +15,7 @@ Folder Structure:
 - /src: .cpp files
 - makefile: makefile to compile and run the programs
 
-### Running the Program:
+### Compiling and running the Program:
 
 Before compiling and running the program, you should make sure that the paths in "makefile" reflect the ones in your machine. If you are using a Mac, these are the commands to compile and run the program: 
 
